@@ -1,3 +1,2 @@
-hello all 
-im from github
+echo "hello all"
   
